@@ -1,0 +1,6 @@
+[submodule "library/tests/googletest"]
+	path = library/tests/googletest
+	url = https://github.com/google/googletest.git
+[submodule "headeronly/tests/googletest"]
+	path = headeronly/tests/googletest
+	url = https://github.com/google/googletest.git
