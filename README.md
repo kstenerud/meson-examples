@@ -24,7 +24,12 @@ The opinionated examples in this repository are designed as fully functional "ju
 
 ### Building
 
-In order to build these projects, you must have Meson and Ninja installed, as well as a C and C++ compiler.
+Requirements:
+
+  * Meson 0.49 or newer
+  * Ninja 1.8.2 or newer
+  * A C compiler
+  * A C++ compiler
 
 #### To build from command line, go into one of the project directories, then:
 
